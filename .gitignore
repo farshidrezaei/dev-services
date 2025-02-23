@@ -1,9 +1,9 @@
-.idea
-.idea/*
+/.idea
+/.idea/*
+/mongo/db
+/mongo/db/*
+/mysql/db
+/mysql/db/*
+/redis/data
+/redis/data/*
 .env
-mongo/db
-mongo/db/*
-mysql/db
-mysql/db/*
-redis/data
-redis/data/*
